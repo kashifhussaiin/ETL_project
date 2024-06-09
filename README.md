@@ -16,7 +16,9 @@ ETL_project/
 ## Dataset
 
 - **Path**: `data/dataset.csv`
-- **Description**: The dataset used in this project for the ETL process.
+- **Description**: The Credit Card Eligibility Dataset: Determining Factors is a comprehensive collection of variables aimed at understanding the factors that influence an individual's eligibility for a credit card. This dataset encompasses a wide range of demographic, financial, and personal attributes that are commonly considered by financial institutions when assessing an individual's suitability for credit.
+
+Each row in the dataset represents a unique individual, identified by a unique ID, with associated attributes ranging from basic demographic information such as gender and age, to financial indicators like total income and employment status. Additionally, the dataset includes variables related to familial status, housing, education, and occupation, providing a holistic view of the individual's background and circumstances.
 
 ## Jupyter Notebook
 
@@ -45,7 +47,7 @@ ETL_project/
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your_username/ETL_project.git
+   git clone https://github.com/kashifhussaiin/ETL_project.git
    cd ETL_project
    ```
 
@@ -61,7 +63,7 @@ ETL_project/
    - Create a new database:
 
      ```sh
-     psql -U postgres -c "CREATE DATABASE etl_db;"
+     psql -U postgres -c "CREATE DATABASE test;"
      ```
 
 4. **Configure the database connection**:
@@ -92,17 +94,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: [your_username](https://github.com/your_username)
-- Email: your_email@example.com
+- GitHub: [kashifhussaiin](https://github.com/kashifhussaiin)
+- Email: kashifhussain.fj@gmail.com
 ```
 
-### Instructions
-
-1. **Replace placeholders**:
-   - `your_username` with your actual GitHub username.
-   - `your_email@example.com` with your actual email address.
-
-2. **Save the file**:
-   Save the above content as `README.md` in the root directory of your project.
 
 This README provides a comprehensive overview of your project and instructions on how to set it up and run it.
