@@ -96,7 +96,3 @@ If you have any questions or suggestions, feel free to reach out:
 
 - GitHub: [kashifhussaiin](https://github.com/kashifhussaiin)
 - Email: kashifhussain.fj@gmail.com
-```
-
-
-This README provides a comprehensive overview of your project and instructions on how to set it up and run it.
